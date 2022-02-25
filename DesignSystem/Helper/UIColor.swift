@@ -5,7 +5,6 @@
 //  Created by Булат Сагдиев on 09.02.2022.
 //
 
-import Foundation
 import UIKit
 
 enum Color: String, CaseIterable {
